@@ -568,10 +568,12 @@ Q.Tool.define({
 	"Streams/import"       : "{{Streams}}/js/tools/import.js",
 	"Streams/activity"     : "{{Streams}}/js/tools/activity.js",
 	"Streams/default/preview": "{{Streams}}/js/tools/default/preview.js",
+	"Streams/image/album": "{{Streams}}/js/tools/album/tool.js",
 	"Streams/player": function () {
 		// does nothing
 	},
-	"Streams/audio/preview" : "{{Streams}}/js/tools/audio/preview.js"
+	"Streams/audio/preview" : "{{Streams}}/js/tools/audio/preview.js",
+	"Streams/album/preview": "{{Streams}}/js/tools/album/preview.js",
 });
 
 /**
