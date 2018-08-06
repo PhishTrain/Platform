@@ -1,11 +1,7 @@
 (function (window, Q, $, undefined) {
 
     var Users = Q.Users;
-
-/**
- * @module Streams
- */
-
+    
 /**
  * YUIDoc description goes here
  * @class Streams/image/album

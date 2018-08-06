@@ -4,7 +4,6 @@
 	var Users = Q.Users;
 	var selector_tool = null;
 
-
 	Q.text.Q.preview = {
 		button: {
 			title: {
