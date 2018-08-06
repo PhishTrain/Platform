@@ -423,7 +423,7 @@
 				"Streams/user/mobileNumber",
 				"Streams/user/interests",
 				"Streams/contacts",
-				"Streams/labels",
+				"Streams/labels", 
 				"Streams/image/album"
 			]
 		},

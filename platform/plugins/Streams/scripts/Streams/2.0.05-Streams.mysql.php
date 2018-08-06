@@ -1,7 +1,7 @@
 <?php
 
 function Streams_2_0_05_Streams()
-{
+{ 
 	$users = Users_user::select("*")->fetchAll(PDO::FETCH_ASSOC);
 	echo "Creating streams...";
 	$c = count($users);

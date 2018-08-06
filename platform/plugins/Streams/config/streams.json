@@ -201,7 +201,7 @@
 		"type": "Streams/category",
 		"title": "Quotes",
 		"icon": ""
-	},
+	}, 
 	"Streams/image/album": {
 		"type": "Streams/album",
 		"title": "Quotes",
